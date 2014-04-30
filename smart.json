@@ -1,0 +1,11 @@
+{
+    "name": "bourbon-scss",
+    "description": "Bourbon - A simple and lightweight mixin library for SASS(scss version).",
+    "homepage": "https://github.com/rshah/meteor-bourbon-scss",
+    "author": "Reza Fatahilah Shah",
+    "version": "3.2.1",
+    "git": "https://github.com/rshah/meteor-bourbon-scss.git",
+    "packages": {
+      "scss": ""
+    }
+}
